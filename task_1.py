@@ -1,4 +1,3 @@
-```python
 class Rectangle(object):
 	def __init__(self, width, height):
 		self.width = width
@@ -26,5 +25,3 @@ print(two.square())
 #>>> 25
 print(two.perimeter())
 #>>> 20
-
-````
