@@ -20,4 +20,4 @@
 	1. нужно скачать драйвер под вашу версию chrome на странице https://sites.google.com/a/chromium.org/chromedriver/downloads
 	2. в строке `driver = Driver(executable_path="PATH")` вместо `PATH` вставить путь к скачаному драйверу.
 
-Скрипт использует самописный модуль xelenium. Был написан мною для удобства работы с библиотекой selenium.
+Скрипт использует самописный модуль [xelenium](https://github.com/MITATED/TrafficProject/blob/master/xelenium.py "xelenium"). Был написан мною для удобства работы с библиотекой selenium.
